@@ -9,7 +9,7 @@ plugins:
 permalink: /:year/:month/:day/:title/
 repository: izhaan123/izhaan123.github.io
 
-linkedin_username:    izhaan-zubair-087938178
+linkedin_username:    izhaan-zubair-087938178/
 facebook_username:    IzH44n
 
 defaults:
