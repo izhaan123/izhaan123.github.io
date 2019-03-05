@@ -23,8 +23,8 @@ topics:
     image_url: https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/2093767/580/386/m1/fpnw/wm0/oculus3_cm-.jpg?1483635812&s=3d3a1e7324168861a75a758baf4517cc
 
   - name: Machine Learning
-  - web_url: https://github.com/topics/machine-learning
-  - image_url: https://cdn0.iconfinder.com/data/icons/trending-tech/94/artificial_intelligence-512.png
+    web_url: https://github.com/topics/machine-learning
+    image_url: https://cdn0.iconfinder.com/data/icons/trending-tech/94/artificial_intelligence-512.png
 
   - name: Game Engines
     web_url: https://github.com/topics/game-engine
