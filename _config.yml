@@ -20,7 +20,7 @@ defaults:
 topics:
   - name: Virtual Reality
     web_url: https://github.com/topics/virtual-reality
-    image_url: https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/2093767/580/386/m1/fpnw/wm0/oculus3_cm-.jpg?1483635812&s=3d3a1e7324168861a75a758baf4517cc
+    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6XUfdyi9Mhw7Duzx2lQX73p55jyxosnpG7NpKXjMmvqPoUiT4A
 
   - name: Machine Learning
     web_url: https://github.com/topics/machine-learning
