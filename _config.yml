@@ -7,6 +7,7 @@ plugins:
   - jemoji
 
 permalink: /:year/:month/:day/:title/
+repository: izhaan123/izhaan123.github.io
 
 defaults:
   -
